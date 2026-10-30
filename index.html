@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="referrer" content="no-referrer">
+  <title>Installer Claim</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+<main>
+  <header><img src="claim-logo.png" alt="Claim" width="220" height="64"><span class="pill">Version d’essai</span></header>
+  <p id="preview" class="preview" hidden>Aperçu local · cette page n’est pas encore publiée.</p>
+  <section class="intro">
+    <p class="eyebrow">LE MONDE EST À TOI</p>
+    <h1>Ta photo.<br>Dans le monde réel.</h1>
+    <p class="lead">Place une photo autour de toi.<br>Explore Claim, simplement.</p>
+    <div class="download glass">
+      <p class="version">Claim 0.2.25 <span>· Android · 106,4 Mo</span></p>
+      <a id="download" class="button primary" href="https://github.com/AlamoEditions/claim-android/releases/download/v0.2.25/Claim-Android.apk">Installer ou mettre à jour <span aria-hidden="true">↓</span></a>
+      <p class="quiet">Sans câble. Sans mode débogage.<br>Android te demande de confirmer l’installation.</p>
+    </div>
+  </section>
+  <section class="steps" aria-labelledby="steps-title">
+    <h2 id="steps-title">La première fois</h2>
+    <ol>
+      <li><span class="number" aria-hidden="true">1</span><div><strong>Télécharge Claim</strong><p>Ouvre le fichier téléchargé depuis ton navigateur ou « Téléchargements ».</p></div></li>
+      <li><span class="number" aria-hidden="true">2</span><div><strong>Confirme avec Android</strong><p>Si demandé, autorise l’installation depuis ce navigateur, puis touche « Installer ». Tu peux retirer cette autorisation ensuite.</p></div></li>
+      <li><span class="number" aria-hidden="true">3</span><div><strong>Prépare ton expérience</strong><p>Ouvre Claim. L’app vérifie les capacités de ton téléphone et explique les composants nécessaires avant de te proposer la caméra.</p></div></li>
+    </ol>
+  </section>
+  <section class="update glass" aria-labelledby="update-title">
+    <div class="icon" aria-hidden="true">↻</div><div><h2 id="update-title">Déjà installé ?</h2><p>Utilise le même bouton, puis confirme « Mettre à jour » dans Android. <strong>Garde l’ancienne app installée</strong> : la mise à jour est conçue pour conserver tes photos et tes données.</p><p class="quiet">Si Android refuse, conserve l’app et son message d’erreur. Ne la désinstalle pas pour contourner le problème.</p><a class="text-link" href="https://github.com/AlamoEditions/claim-android/releases/tag/v0.2.25">Voir les nouveautés de cette version →</a></div>
+  </section>
+  <section class="share" aria-labelledby="share-title">
+    <div><h2 id="share-title">Un lien, à garder.</h2><p>Envoie cette page à la personne qui veut essayer Claim. Elle donnera accès aux prochaines versions aussi.</p><button id="share" class="button secondary" type="button" data-url="https://alamoeditions.github.io/claim-android/">Partager le lien</button><p id="share-status" role="status" class="quiet"></p><a id="share-link" class="text-link" href="https://alamoeditions.github.io/claim-android/">https://alamoeditions.github.io/claim-android/</a></div>
+    <img class="qr" src="claim-qr.svg" width="160" height="160" alt="QR code vers la page permanente de téléchargement de Claim">
+  </section>
+  <details><summary>Compatibilité et informations utiles</summary><div class="details-body"><p>Ce fichier est destiné aux téléphones <strong>Android compatibles</strong>, notamment sous Android 9 et versions plus récentes. Le minimum logiciel de cet APK est Android 7.1, avec processeur ARM et graphismes OpenGL ES 3.0. L’installation et la qualité des fonctions AR sont deux choses différentes : Claim choisit les fonctions disponibles après son diagnostic.</p><p>Le comportement n’a pas été vérifié sur tous les modèles. Cette version est un prototype : la stabilité, l’occlusion, le retour au même lieu et le partage continuent d’être testés. L’APK Android ne fonctionne pas sur iPhone.</p><p>Cette page ne contient ni suivi publicitaire ni accès à tes photos. GitHub héberge le téléchargement et peut conserver des journaux techniques de connexion. Tes photos ne sont pas publiées par une installation ou une mise à jour.</p><p class="hash">Empreinte du fichier (SHA-256)<br><code>e94b7694260ee1fda983e3cc2970575a5af2842b497be36c38ce57fd5e051174</code></p></div></details>
+  <footer>CLAIM · The world is yours<br><span>Un prototype en construction, avec toi.</span></footer>
+</main>
+</body>
+</html>

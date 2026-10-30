@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "channel": "prototype",
+  "packageName": "com.claim.firstpath",
+  "versionCode": 45,
+  "versionName": "0.2.25",
+  "minSdk": 25,
+  "abis": [
+    "arm64-v8a",
+    "armeabi-v7a"
+  ],
+  "signerSha256": "6db2ca6526500413204b6e23fc0bb7d06b9ee1bfc768dd2fdc54fc43c66dc5c3",
+  "requiresGles": "3.0",
+  "arCoreRequired": false,
+  "apkUrl": "https://github.com/AlamoEditions/claim-android/releases/download/v0.2.25/Claim-Android.apk",
+  "apkBytes": 106411354,
+  "apkSha256": "e94b7694260ee1fda983e3cc2970575a5af2842b497be36c38ce57fd5e051174",
+  "notesUrl": "https://github.com/AlamoEditions/claim-android/releases/tag/v0.2.25",
+  "pageUrl": "https://alamoeditions.github.io/claim-android/",
+  "builtAtUtc": "2026-10-30T06:32:48.967946+00:00",
+  "preparedAtUtc": "2026-10-30T06:57:19.586343+00:00",
+  "physicalValidation": "UNKNOWN"
+}
