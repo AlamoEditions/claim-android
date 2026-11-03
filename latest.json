@@ -2,8 +2,8 @@
   "schema": 1,
   "channel": "prototype",
   "packageName": "com.claim.firstpath",
-  "versionCode": 47,
-  "versionName": "0.2.27",
+  "versionCode": 49,
+  "versionName": "0.2.29",
   "minSdk": 25,
   "abis": [
     "arm64-v8a",
@@ -12,14 +12,14 @@
   "signerSha256": "6db2ca6526500413204b6e23fc0bb7d06b9ee1bfc768dd2fdc54fc43c66dc5c3",
   "requiresGles": "3.0",
   "arCoreRequired": false,
-  "apkUrl": "https://github.com/AlamoEditions/claim-android/releases/download/v0.2.27/Claim-Android.apk",
-  "apkBytes": 106441506,
-  "apkSha256": "d5d1312e294590512e9fd759a3f7419314f4a6c24c4a7324ca443da1b42af524",
-  "notesUrl": "https://github.com/AlamoEditions/claim-android/releases/tag/v0.2.27",
+  "apkUrl": "https://github.com/AlamoEditions/claim-android/releases/download/v0.2.29/Claim-Android.apk",
+  "apkBytes": 106686800,
+  "apkSha256": "bec1af26b663dcc0a9f162b193635dd3b345d8774d8d429359dd59e46eb14c57",
+  "notesUrl": "https://github.com/AlamoEditions/claim-android/releases/tag/v0.2.29",
   "pageUrl": "https://alamoeditions.github.io/claim-android/",
-  "builtAtUtc": "2026-11-02T11:48:54.121465+00:00",
-  "preparedAtUtc": "2026-11-02T11:50:37.458850+00:00",
+  "builtAtUtc": "2026-11-03T19:13:33.892272+00:00",
+  "preparedAtUtc": "2026-11-03T20:13:00.981818+00:00",
   "physicalValidation": "UNKNOWN",
-  "releaseTitle": "Les nouveautés de Claim, simplement",
-  "releaseNotes": "Alertes facultatives pour les nouvelles versions, avec résumé et accès à la mise à jour.\nRappel discret dans Claim ; aucune installation automatique.\nPremier passage manuel nécessaire, puis activation dans Plus → Mises à jour."
+  "releaseTitle": "Découvrir Claim, plus simplement",
+  "releaseNotes": "Accueil simplifié, commandes compactes et tutoriel facultatif, retrouvable dans Plus.\nRetours vocaux privés : enregistrer, écouter puis confirmer l’envoi.\nProfondeur dès le placement, repères de surfaces et traitement des mains ajustés.\nVersion d’essai : qualité AR, récupération et partage restent à vérifier sur téléphone."
 }
