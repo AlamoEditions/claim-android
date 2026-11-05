@@ -2,8 +2,8 @@
   "schema": 1,
   "channel": "prototype",
   "packageName": "com.claim.firstpath",
-  "versionCode": 57,
-  "versionName": "0.2.37",
+  "versionCode": 58,
+  "versionName": "0.2.38",
   "minSdk": 25,
   "abis": [
     "arm64-v8a",
@@ -12,14 +12,14 @@
   "signerSha256": "6db2ca6526500413204b6e23fc0bb7d06b9ee1bfc768dd2fdc54fc43c66dc5c3",
   "requiresGles": "3.0",
   "arCoreRequired": false,
-  "apkUrl": "https://github.com/AlamoEditions/claim-android/releases/download/v0.2.37/Claim-Android.apk",
-  "apkBytes": 106870664,
-  "apkSha256": "d69dc9b5397a04e864acfbc168138b9d9a62d3861de0b8d70f140f9eabb10be4",
-  "notesUrl": "https://github.com/AlamoEditions/claim-android/releases/tag/v0.2.37",
+  "apkUrl": "https://github.com/AlamoEditions/claim-android/releases/download/v0.2.38/Claim-Android.apk",
+  "apkBytes": 106932116,
+  "apkSha256": "2e2c53b1d9dcfd4a2ac74f07e44a2c4282946309b038869bc32b98af785b2660",
+  "notesUrl": "https://github.com/AlamoEditions/claim-android/releases/tag/v0.2.38",
   "pageUrl": "https://alamoeditions.github.io/claim-android/",
-  "builtAtUtc": "2026-11-05T17:17:58.187390+00:00",
-  "preparedAtUtc": "2026-11-05T18:09:58.977161+00:00",
+  "builtAtUtc": "2026-11-05T19:13:31.668377+00:00",
+  "preparedAtUtc": "2026-11-05T19:28:28.653519+00:00",
   "physicalValidation": "UNKNOWN",
-  "releaseTitle": "Claim 0.2.37 · Une projection de profondeur cohérente",
-  "releaseNotes": "Une projection de profondeur incohérente est rejetée pour éviter des découpes erronées.\nOcclusion temporairement suspendue, puis reprise avec une projection valable.\n990 tests PC réussis ; amélioration sur téléphone encore à mesurer."
+  "releaseTitle": "Claim 0.2.38 · Contours cohérents et ordre des sauvegardes",
+  "releaseNotes": "Le guide couleur refuse les images incohérentes pour éviter de mal affiner les contours.\nLes nouvelles sauvegardes locales gardent leur ordre même si l’horloge recule.\n1039 tests PC réussis ; les gains sur téléphone restent à mesurer."
 }
