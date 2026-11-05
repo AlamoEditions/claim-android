@@ -2,8 +2,8 @@
   "schema": 1,
   "channel": "prototype",
   "packageName": "com.claim.firstpath",
-  "versionCode": 53,
-  "versionName": "0.2.33",
+  "versionCode": 54,
+  "versionName": "0.2.34",
   "minSdk": 25,
   "abis": [
     "arm64-v8a",
@@ -12,14 +12,14 @@
   "signerSha256": "6db2ca6526500413204b6e23fc0bb7d06b9ee1bfc768dd2fdc54fc43c66dc5c3",
   "requiresGles": "3.0",
   "arCoreRequired": false,
-  "apkUrl": "https://github.com/AlamoEditions/claim-android/releases/download/v0.2.33/Claim-Android.apk",
-  "apkBytes": 106820708,
-  "apkSha256": "198c232bfc6996ff09cb94a738d246067251718524d1d8cd3efb96f4afb56985",
-  "notesUrl": "https://github.com/AlamoEditions/claim-android/releases/tag/v0.2.33",
+  "apkUrl": "https://github.com/AlamoEditions/claim-android/releases/download/v0.2.34/Claim-Android.apk",
+  "apkBytes": 106836468,
+  "apkSha256": "836676f0c1377e45d012eb2094269df83ff0ff001e71edb64bb36bd7dfe8dc2a",
+  "notesUrl": "https://github.com/AlamoEditions/claim-android/releases/tag/v0.2.34",
   "pageUrl": "https://alamoeditions.github.io/claim-android/",
-  "builtAtUtc": "2026-11-05T06:23:17.494101+00:00",
-  "preparedAtUtc": "2026-11-05T06:42:29.828688+00:00",
+  "builtAtUtc": "2026-11-05T09:09:49.034421+00:00",
+  "preparedAtUtc": "2026-11-05T10:39:19.343032+00:00",
   "physicalValidation": "UNKNOWN",
-  "releaseTitle": "Claim 0.2.33 · Vos retours, plus simplement",
-  "releaseNotes": "Choisir une photo avant la caméra, tutoriel court et aides au bon moment.\nAvis vocaux privés jusqu’à 3 minutes, extraits successifs et envoi avec reçu vérifié.\nMises à jour guidées dans Claim et alertes avec numéro de version.\nCorrection de certaines découpes d’occlusion périmées ; mains, ancrage et parcours Android restent à vérifier sur téléphone."
+  "releaseTitle": "Claim 0.2.34 · La lumière et les gestes",
+  "releaseNotes": "La photo s’adapte doucement aux changements de lumière mesurés pendant la session.\nLe tutoriel attend vos gestes ; il reste possible de le passer.\nUn espace séparé pour les essais guidés, avec captures volontaires et étapes vérifiées.\n853 tests PC réussis ; lumière, mains, ancrage et partage restent à vérifier sur téléphone."
 }
