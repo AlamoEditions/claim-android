@@ -2,8 +2,8 @@
   "schema": 1,
   "channel": "prototype",
   "packageName": "com.claim.firstpath",
-  "versionCode": 62,
-  "versionName": "0.2.42",
+  "versionCode": 63,
+  "versionName": "0.2.43",
   "minSdk": 25,
   "abis": [
     "arm64-v8a",
@@ -12,14 +12,14 @@
   "signerSha256": "6db2ca6526500413204b6e23fc0bb7d06b9ee1bfc768dd2fdc54fc43c66dc5c3",
   "requiresGles": "3.0",
   "arCoreRequired": false,
-  "apkUrl": "https://github.com/AlamoEditions/claim-android/releases/download/v0.2.42/Claim-Android.apk",
-  "apkBytes": 106984632,
-  "apkSha256": "0e7afc5ffadf8e0bc1323d684b0c7e9fd6d5242f536f19d617b9862830594bda",
-  "notesUrl": "https://github.com/AlamoEditions/claim-android/releases/tag/v0.2.42",
+  "apkUrl": "https://github.com/AlamoEditions/claim-android/releases/download/v0.2.43/Claim-Android.apk",
+  "apkBytes": 106990316,
+  "apkSha256": "55a3a7f91a7041fca83c397136eff2bb0fc70c0f97a6f728da6788b03ee540ca",
+  "notesUrl": "https://github.com/AlamoEditions/claim-android/releases/tag/v0.2.43",
   "pageUrl": "https://alamoeditions.github.io/claim-android/",
-  "builtAtUtc": "2026-11-14T17:48:38.205361+00:00",
-  "preparedAtUtc": "2026-11-14T18:36:17.279505+00:00",
+  "builtAtUtc": "2026-11-21T06:51:28.841514+00:00",
+  "preparedAtUtc": "2026-11-21T07:12:18.557533+00:00",
   "physicalValidation": "UNKNOWN",
-  "releaseTitle": "Claim 0.2.42 · Le monde d’abord, des retours plus simples",
-  "releaseNotes": "Ouverture sur le monde, interface allégée et création par +.\nAlertes vers l’écran Mises à jour ; brouillons et vocaux protégés.\nVocaux : sauvegarde plus sûre et reprise réseau limitée. Contrôles récents des mains et ancres inclus.\n1 259 tests PC et 383 contrôles Java réussis ; résultats sur téléphone encore à vérifier."
+  "releaseTitle": "Claim 0.2.43 · Retours vocaux et placement des photos",
+  "releaseNotes": "Retours vocaux : reprise plus claire et vérification de chaque envoi privé.\nPlacement : lueur discrète puis filet fin ; ajustements de profondeur et de lumière.\nDeux extraits synthétiques vérifiés sur le serveur. Essai sur téléphone à venir."
 }
